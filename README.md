@@ -1,5 +1,5 @@
 # Analise_Infracoes_Transito_DF_2019
-<<<<<<< HEAD
+
 Análise de Infrações de Trânsito
 =======
 Análise de Infrações de Trânsito no DF
